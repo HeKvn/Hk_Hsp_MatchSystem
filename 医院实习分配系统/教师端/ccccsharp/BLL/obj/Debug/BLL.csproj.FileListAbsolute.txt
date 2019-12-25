@@ -1,0 +1,30 @@
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp\BLL\bin\Debug\BLL.dll
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp\BLL\bin\Debug\BLL.pdb
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp\BLL\bin\Debug\DAL.dll
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp\BLL\bin\Debug\Model.dll
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp\BLL\bin\Debug\MySql.Data.dll
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp\BLL\bin\Debug\DAL.pdb
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp\BLL\bin\Debug\Model.pdb
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp\BLL\obj\Debug\BLL.dll
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp\BLL\obj\Debug\BLL.pdb
+D:\医院实习分配系统\教师端\ccccsharp\BLL\bin\Debug\BLL.dll
+D:\医院实习分配系统\教师端\ccccsharp\BLL\bin\Debug\BLL.pdb
+D:\医院实习分配系统\教师端\ccccsharp\BLL\bin\Debug\DAL.dll
+D:\医院实习分配系统\教师端\ccccsharp\BLL\bin\Debug\Model.dll
+D:\医院实习分配系统\教师端\ccccsharp\BLL\bin\Debug\MySql.Data.dll
+D:\医院实习分配系统\教师端\ccccsharp\BLL\bin\Debug\DAL.pdb
+D:\医院实习分配系统\教师端\ccccsharp\BLL\bin\Debug\Model.pdb
+D:\医院实习分配系统\教师端\ccccsharp\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\医院实习分配系统\教师端\ccccsharp\BLL\obj\Debug\BLL.dll
+D:\医院实习分配系统\教师端\ccccsharp\BLL\obj\Debug\BLL.pdb
+H:\医院实习分配系统\教师端\ccccsharp\BLL\bin\Debug\BLL.dll
+H:\医院实习分配系统\教师端\ccccsharp\BLL\bin\Debug\BLL.pdb
+H:\医院实习分配系统\教师端\ccccsharp\BLL\bin\Debug\DAL.dll
+H:\医院实习分配系统\教师端\ccccsharp\BLL\bin\Debug\Model.dll
+H:\医院实习分配系统\教师端\ccccsharp\BLL\bin\Debug\MySql.Data.dll
+H:\医院实习分配系统\教师端\ccccsharp\BLL\bin\Debug\DAL.pdb
+H:\医院实习分配系统\教师端\ccccsharp\BLL\bin\Debug\Model.pdb
+H:\医院实习分配系统\教师端\ccccsharp\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+H:\医院实习分配系统\教师端\ccccsharp\BLL\obj\Debug\BLL.dll
+H:\医院实习分配系统\教师端\ccccsharp\BLL\obj\Debug\BLL.pdb

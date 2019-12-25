@@ -1,0 +1,81 @@
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp1\ccccsharp1\bin\Debug\ccccsharp1.pdb
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp1\ccccsharp1\bin\Debug\BLL.dll
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp1\ccccsharp1\bin\Debug\Model.dll
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp1\ccccsharp1\bin\Debug\MySql.Data.dll
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp1\ccccsharp1\bin\Debug\DAL.dll
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp1\ccccsharp1\bin\Debug\BLL.pdb
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp1\ccccsharp1\bin\Debug\Model.pdb
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp1\ccccsharp1\bin\Debug\DAL.pdb
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.csprojResolveAssemblyReference.cache
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form1.resources
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form10.resources
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form11.resources
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form2.resources
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form3.resources
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form4.resources
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form5.resources
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form6.resources
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form7.resources
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form8.resources
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form9.resources
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Properties.Resources.resources
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.csproj.GenerateResource.Cache
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.pdb
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp1\ccccsharp1\bin\Debug\ccccsharp1.exe.config
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp1\ccccsharp1\bin\Debug\ccccsharp1.exe
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.exe
+D:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\bin\Debug\ccccsharp1.exe.config
+D:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.exe
+D:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.pdb
+D:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.csprojResolveAssemblyReference.cache
+D:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form1.resources
+D:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form10.resources
+D:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form11.resources
+D:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form2.resources
+D:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form3.resources
+D:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form4.resources
+D:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form5.resources
+D:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form6.resources
+D:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form7.resources
+D:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form8.resources
+D:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form9.resources
+D:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Properties.Resources.resources
+D:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.csproj.GenerateResource.Cache
+D:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\bin\Debug\ccccsharp1.exe
+D:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\bin\Debug\ccccsharp1.pdb
+D:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\bin\Debug\BLL.dll
+D:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\bin\Debug\Model.dll
+D:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\bin\Debug\MySql.Data.dll
+D:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\bin\Debug\DAL.dll
+D:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\bin\Debug\BLL.pdb
+D:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\bin\Debug\Model.pdb
+D:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\bin\Debug\DAL.pdb
+E:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\bin\Debug\ccccsharp1.exe.config
+E:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.exe
+E:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.pdb
+H:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\bin\Debug\ccccsharp1.exe.config
+H:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.exe
+H:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.pdb
+H:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\bin\Debug\ccccsharp1.exe
+H:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\bin\Debug\ccccsharp1.pdb
+H:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\bin\Debug\BLL.dll
+H:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\bin\Debug\Model.dll
+H:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\bin\Debug\MySql.Data.dll
+H:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\bin\Debug\DAL.dll
+H:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\bin\Debug\BLL.pdb
+H:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\bin\Debug\Model.pdb
+H:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\bin\Debug\DAL.pdb
+H:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.csprojResolveAssemblyReference.cache
+H:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form1.resources
+H:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form10.resources
+H:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form11.resources
+H:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form2.resources
+H:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form3.resources
+H:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form4.resources
+H:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form5.resources
+H:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form6.resources
+H:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form7.resources
+H:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form8.resources
+H:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Form9.resources
+H:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.Properties.Resources.resources
+H:\医院实习分配系统\学生端\ccccsharp1\ccccsharp1\obj\Debug\ccccsharp1.csproj.GenerateResource.Cache

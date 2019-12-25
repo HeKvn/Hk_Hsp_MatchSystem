@@ -1,0 +1,24 @@
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp\DAL\bin\Debug\DAL.dll
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp\DAL\bin\Debug\DAL.pdb
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp\DAL\bin\Debug\Model.dll
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp\DAL\bin\Debug\MySql.Data.dll
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp\DAL\bin\Debug\Model.pdb
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp\DAL\obj\Debug\DAL.dll
+C:\Users\37701\documents\visual studio 2010\Projects\ccccsharp\DAL\obj\Debug\DAL.pdb
+D:\医院实习分配系统\教师端\ccccsharp\DAL\bin\Debug\DAL.dll
+D:\医院实习分配系统\教师端\ccccsharp\DAL\bin\Debug\DAL.pdb
+D:\医院实习分配系统\教师端\ccccsharp\DAL\bin\Debug\Model.dll
+D:\医院实习分配系统\教师端\ccccsharp\DAL\bin\Debug\MySql.Data.dll
+D:\医院实习分配系统\教师端\ccccsharp\DAL\bin\Debug\Model.pdb
+D:\医院实习分配系统\教师端\ccccsharp\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\医院实习分配系统\教师端\ccccsharp\DAL\obj\Debug\DAL.dll
+D:\医院实习分配系统\教师端\ccccsharp\DAL\obj\Debug\DAL.pdb
+H:\医院实习分配系统\教师端\ccccsharp\DAL\bin\Debug\DAL.dll
+H:\医院实习分配系统\教师端\ccccsharp\DAL\bin\Debug\DAL.pdb
+H:\医院实习分配系统\教师端\ccccsharp\DAL\bin\Debug\Model.dll
+H:\医院实习分配系统\教师端\ccccsharp\DAL\bin\Debug\MySql.Data.dll
+H:\医院实习分配系统\教师端\ccccsharp\DAL\bin\Debug\Model.pdb
+H:\医院实习分配系统\教师端\ccccsharp\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\医院实习分配系统\教师端\ccccsharp\DAL\obj\Debug\DAL.dll
+H:\医院实习分配系统\教师端\ccccsharp\DAL\obj\Debug\DAL.pdb
