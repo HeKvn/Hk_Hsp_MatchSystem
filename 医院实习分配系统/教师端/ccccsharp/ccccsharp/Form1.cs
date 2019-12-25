@@ -7,6 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
+//author:HeKvn
+//医院实习分配系统教师端
+
 namespace ccccsharp
 {
     public partial class Form1 : Form
